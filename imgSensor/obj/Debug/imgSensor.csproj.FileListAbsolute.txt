@@ -1,0 +1,10 @@
+C:\Users\HyunJong\Desktop\wy\imgSensor\imgSensor\bin\Debug\imgSensor.exe.config
+C:\Users\HyunJong\Desktop\wy\imgSensor\imgSensor\bin\Debug\imgSensor.exe
+C:\Users\HyunJong\Desktop\wy\imgSensor\imgSensor\bin\Debug\imgSensor.pdb
+C:\Users\HyunJong\Desktop\wy\imgSensor\imgSensor\obj\Debug\imgSensor.csprojAssemblyReference.cache
+C:\Users\HyunJong\Desktop\wy\imgSensor\imgSensor\obj\Debug\imgSensor.Form1.resources
+C:\Users\HyunJong\Desktop\wy\imgSensor\imgSensor\obj\Debug\imgSensor.Properties.Resources.resources
+C:\Users\HyunJong\Desktop\wy\imgSensor\imgSensor\obj\Debug\imgSensor.csproj.GenerateResource.cache
+C:\Users\HyunJong\Desktop\wy\imgSensor\imgSensor\obj\Debug\imgSensor.csproj.CoreCompileInputs.cache
+C:\Users\HyunJong\Desktop\wy\imgSensor\imgSensor\obj\Debug\imgSensor.exe
+C:\Users\HyunJong\Desktop\wy\imgSensor\imgSensor\obj\Debug\imgSensor.pdb
